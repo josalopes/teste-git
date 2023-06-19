@@ -1,0 +1,1 @@
+Texto em file2 agora alterado na branch-2
